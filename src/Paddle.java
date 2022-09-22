@@ -1,10 +1,10 @@
 import java.awt.Color;
 
 public class Paddle extends Sprite {
-    private static final int PADDLE_WIDTH = 10;
-    private static final int PADDLE_HEIGHT = 100;
+    private static final int PADDLE_WIDTH = 15; //Changed from 10 to 15 for experiment 2
+    private static final int PADDLE_HEIGHT = 110; //Changed from 100 to 110 for experiment 2
     private static final Color PADDLE_COLOUR = Color.WHITE;
-    private static final int DISTANCE_FROM_EDGE = 40;
+    private static final int DISTANCE_FROM_EDGE = 30; //Changed from 40 to 30 for experiment 2
 
 
 
